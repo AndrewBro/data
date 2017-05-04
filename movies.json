@@ -1,5 +1,5 @@
-{
-  "movies" : [
+
+  [
     {
       "id" : "1",
       "Title" : "GOING IN STYLE",
@@ -50,7 +50,7 @@
       "Theaters" : "Apr 21, 2017  Wide",
       "BoxOffice" : "$4,931,308.00",
       "Runtime" : "140 minutes",
-      "Studio" : "Amazon Studios/Bleecker Street Media",
+      "Studio" : "Amazon Studios/Bleecker Street Media"
     },
     {
       "id" : "5",
@@ -92,4 +92,3 @@
       "Studio" : "Accelerated Manner"
     }
   ]
-}
